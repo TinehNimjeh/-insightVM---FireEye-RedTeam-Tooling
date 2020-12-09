@@ -1,22 +1,57 @@
+               _,.---.---.---.--.._ 
+           _.-' `--.`---.`---'-. _,`--.._
+          /`--._ .'.     `.     `,`-.`-._\
+         ||   \  `.`---.__`__..-`. ,'`-._/
+    _  ,`\ `-._\   \    `.    `_.-`-._,``-.
+ ,`   `-_ \/ `-.`--.\    _\_.-'\__.-`-.`-._`.
+(_.o> ,--. `._/'--.-`,--`  \_.-'       \`-._ \
+ `---'    `._ `---._/__,----`           `-. `-\
+           /_, ,  _..-'                    `-._\
+           \_, \/ ._(
+            \_, \/ ._\
+             `._,\/ ._\
+               `._// ./`-._
+                 `-._-_-_.-'
+
+
+Below are the CVE's associated to the FireEye Red Team tools from their notification. For each CVE I have pulled the following:
+
+CVE
+ID 
+vulnid 
+Vulnerabilty Title
+
+The below can be used and abused in the API, project creation, browser tricks to hop between vulns, and all sorts of other fun things. 
+
+###
+
 CVE-2014-1812
 windows-hotfix-ms14-025
 64411
 MS14-025: Vulnerability in Group Policy Preferences Could Allow Elevation of Privilege (2962486)
+
+###
 
 CVE-2019-0708
 msft-cve-2019-0708
 142075
 Microsoft CVE-2019-0708: Remote Desktop Services Remote Code Execution Vulnerability
 
+###
+
 CVE-2017-11774
 msft-cve-2017-11774
 58907
 Microsoft CVE-2017-11774: Microsoft Outlook Security Feature Bypass Vulnerability
 
+###
+
 CVE-2018-15961
 adobe-coldfusion-cve-2018-15961
 143410
 APSB18-33: Security updates available for ColdFusion | APSB18-33 (CVE-2018-15961)
+
+###
 
 CVE-2019-19781
 citrix-adc-cve-2019-19781
@@ -26,23 +61,33 @@ freebsd-cve-2019-19781
 Citrix Systems, Inc.: CVE-2019-19781: Remote Code Execution in Citrix Application Delivery Controller and Citrix Gateway
 FreeBSD: VID-2BAB995F-36D4-11EA-9DAD-002590ACAE31 (CVE-2019-19781): Template::Toolkit -- Directory traversal on write
 
+###
+
 CVE-2019-3398
 atlassian-confluence-cve-2019-3398
 141435
 Atlassian Confluence: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') (CVE-2019-3398)
 
+###
+
 CVE-2019-11580
 No Coverage
+
+###
 
 CVE-2018-13379
 fortios-cve-2018-13379
 149094
 Fortinet FortiOS: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') (CVE-2018-13379)
 
+###
+
 CVE-2020-0688
 msft-cve-2020-0688
 158670
 Microsoft CVE-2020-0688: Microsoft Exchange Memory Corruption Vulnerability
+
+###
 
 CVE-2019-11510
 pulse-secure-connect-cve-2019-11510
@@ -52,23 +97,33 @@ pulse-secure-pulse-connect-secure-cve-2019-11510
 CVE-2019-11510: Pulse Secure Connect unauthenticated arbitrary file read
 Pulse Secure Pulse Connect Secure: CVE-2019-11510: Multiple vulnerabilities resolved in Pulse Connect Secure / Pulse Policy Secure 9.0RX (SA44101)
 
+###
+
 CVE-2019-0604
 msft-cve-2019-0604
 137551
 Microsoft CVE-2019-0604: Microsoft SharePoint Remote Code Execution Vulnerability
+
+###
 
 CVE-2020-10189
 http-manageengine-dc-cve-2020-10189
 159687
 ManageEngine Desktop Central - CVE-2020-10189: Unauthenticated remote code execution
 
+###
+
 CVE-2019-8394
 No Coverage
+
+###
 
 CVE-2016-0167
 windows-hotfix-ms16-039
 70075
 MS16-039: Security Update for Microsoft Graphics Component (3148522)
+
+###
 
 CVE-2020-1472
 debian-cve-2020-1472
@@ -98,6 +153,8 @@ Microsoft CVE-2020-1472: (Zerologon) Netlogon Elevation of Privilege Vulnerabili
 Samba: CVE-2020-1472: Netlogon Elevation of Privilege Vulnerability
 SUSE: CVE-2020-1472: SUSE Linux Security Advisory
 Ubuntu: (Multiple Advisories) (CVE-2020-1472): Samba update
+
+###
 
 CVE-2018-8581
 msft-cve-2018-8581
